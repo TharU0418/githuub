@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/github-app/static/css/main.31d6cfe0.css",
-    "main.js": "/github-app/static/js/main.b1db28ae.js",
-    "index.html": "/github-app/index.html",
-    "main.b1db28ae.js.map": "/github-app/static/js/main.b1db28ae.js.map"
+    "main.css": "/githuub/static/css/main.31d6cfe0.css",
+    "main.js": "/githuub/static/js/main.b1db28ae.js",
+    "index.html": "/githuub/index.html",
+    "main.b1db28ae.js.map": "/githuub/static/js/main.b1db28ae.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
